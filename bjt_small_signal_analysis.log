@@ -1,0 +1,21 @@
+Circuit: * E:\Circuit design software\ltspice\bjt_small_signal_analysis.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Oct  8 12:07:29 2020
+Total elapsed time: 0.135 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3504
+traniter = 3500
+tranpoints = 1751
+accept = 1360
+rejected = 391
+matrix size = 10
+fillins = 5
+solver = Normal
+Matrix Compiler1: 692 bytes object code size  0.4/0.2/[0.1]
+Matrix Compiler2: 856 bytes object code size  0.2/0.3/[0.1]
+

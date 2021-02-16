@@ -1,0 +1,5 @@
+Circuit: * E:\Circuit design software\ltspice\Draft1.asc
+
+Error on line 10 : r6 n001 0 r
+	 Unable to find definition of model "r"
+Fatal Error: Missing resistance value for "R6"

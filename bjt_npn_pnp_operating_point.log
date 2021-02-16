@@ -1,0 +1,43 @@
+Circuit: *A BJT Circuit
+
+WARNING: Less than two connections to node B1.  This node is used by Q1.
+Direct Newton iteration for .op point succeeded.
+Semiconductor Device Operating Points:
+                        --- Bipolar Transistors ---
+Name:       q2          q1
+Model:     qmodp       bc547
+Ib:         NaN         NaN
+Ic:         NaN         NaN
+Vbe:      -1.85e-6     3.95e-1
+Vbc:       5.00e+0    -4.61e+0
+Vce:      -5.00e+0     5.00e+0
+BetaDC:   -1.00e+0     3.78e+8
+Gm:         NaN        1.63e-8
+Rpi:        NaN        6.10e+9
+Rx:        0.00e+0     0.00e+0
+Ro:         NaN         NaN
+Cbe:       0.00e+0     0.00e+0
+Cbc:       0.00e+0     0.00e+0
+Cjs:       0.00e+0     0.00e+0
+BetaAC:    3.87e-3     9.94e+1
+Cbx:       0.00e+0     0.00e+0
+Ft:        0.00e+0     0.00e+0
+
+
+
+Date: Sun Oct  4 00:11:56 2020
+Total elapsed time: 0.012 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 22
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 8
+fillins = 0
+solver = Normal
+Matrix Compiler1: 442 bytes object code size
+Matrix Compiler2: 648 bytes object code size
